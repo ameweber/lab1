@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: Futura;
+    font-family: Circe;
 }
 
 .list-group-item {
@@ -14,5 +14,13 @@ body {
 }
 
 h5{
-    color: #2626bc;
+    color: #9fb0fe;
+}
+
+img {
+    border-radius: 1rem !important;
+}
+
+.table-bordered, .table thead th, .table-bordered td {
+    border: 2px solid #f5f6ff !important;
 }
