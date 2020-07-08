@@ -1,0 +1,18 @@
+.fishText{
+    margin-top: 30px;
+}
+
+body {
+    font-family: Futura;
+}
+
+.list-group-item {
+    border: none !important;
+    padding-left: 0 !important;
+
+
+}
+
+h5{
+    color: #2626bc;
+}
